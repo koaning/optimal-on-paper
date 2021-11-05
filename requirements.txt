@@ -1,0 +1,5 @@
+whatlies==0.6.4
+memo==0.2.2
+cleanlab==1.0
+jupyterlab==3.2.2
+hiplot==0.1.32
