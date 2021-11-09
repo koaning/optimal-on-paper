@@ -3,3 +3,5 @@ memo==0.2.2
 cleanlab==1.0
 jupyterlab==3.2.2
 hiplot==0.1.32
+tabulate==0.8.9
+doubtlab
